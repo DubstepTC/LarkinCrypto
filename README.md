@@ -52,14 +52,16 @@ pip install Flask
    <img width="540" height="584" alt="image" src="https://github.com/user-attachments/assets/d5563c0d-c3e1-44a5-8b0c-c3a6452b88f4" />
 
    ```
-   <img width="974" height="553" alt="image" src="https://github.com/user-attachments/assets/1fdc1bf3-d79c-4fba-8319-09de14687e82" />
+   <img width="986" height="564" alt="image" src="https://github.com/user-attachments/assets/338a4707-a052-46e3-b979-3666eed71a4f" />
+
  * **Шаг 2 (Клиент):** Запустите локальное приложение для шифрования файлов.
    ```bash
    python App.py
   
 
    ```
- <img width="711" height="761" alt="image" src="https://github.com/user-attachments/assets/0b83c097-820c-4369-ac06-4248e474d97f" />
+<img width="540" height="584" alt="image" src="https://github.com/user-attachments/assets/27660189-6d7f-4555-a1b4-14e20693e929" />
+
  
  * **Шаг 3 (Администратор):** Запустите панель мониторинга логов.
    ```bash
@@ -67,7 +69,8 @@ pip install Flask
    
 
    ```
-<img width="799" height="611" alt="image" src="https://github.com/user-attachments/assets/e76cb60e-679d-4cda-80c1-5d9f14fdd563" />
+<img width="799" height="611" alt="image" src="https://github.com/user-attachments/assets/41e9e376-f864-45dc-aa67-066724e7b37f" />
+
 
 ## 📡 Спецификация Web-API (Srv.py)
 | Маршрут | Метод | Описание | Тип ответа |
